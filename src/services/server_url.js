@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://motoview-server.onrender.com"
